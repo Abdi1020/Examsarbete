@@ -1,6 +1,7 @@
 # Examsarbete
 
-# En klient ./https://github.com/Abdi1020/Examsarbete/blob/main/One.py
+# En klient 
 # Två klienter
 # Tre klienter
 # Fyra klienter
+[Contribution guidelines for this project](Examsarbete/Tripple.py)
