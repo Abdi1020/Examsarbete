@@ -2,6 +2,5 @@
 
 # En klient 
 # Två klienter
-# Tre klienter
+# [Tre klienter](Tripple.py)
 # Fyra klienter
-[Contribution guidelines for this project](Examsarbete/Tripple.py)
