@@ -1,6 +1,8 @@
 # Examsarbete
 
-# En klient 
-# Två klienter
+Välj en av nedan, för att navigera. 
+
+# [En klient](One.py)
+# [Två klienter](dubbel.py)
 # [Tre klienter](Tripple.py)
-# Fyra klienter
+# [Fyra klienter](Multi.py)
