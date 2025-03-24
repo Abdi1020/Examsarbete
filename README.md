@@ -1,4 +1,4 @@
-# Examsarbete
+# Examsarbete Kandidat
 
 Välj en av nedan, för att navigera. 
 
